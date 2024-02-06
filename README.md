@@ -1,7 +1,10 @@
 # Project -title
-explain your project here
+    ChiraCare: A System for NCDs Patient Care and Follow-Up.
 ## Members
-list out your member ID and name.
+6331503002 MEKKALAR  SANSIRI
+6431503015 THITIMA AMPAWA
+6431503032 THANYAPON AMORNMORAKOT
+6431503051 LALITA RUTTANARUNGSRI
 
 ## Instruction
 You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:
