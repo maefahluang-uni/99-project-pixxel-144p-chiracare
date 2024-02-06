@@ -1,0 +1,38 @@
+:root {
+    --light-gray: #737791;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-control {
+        & .label{
+            display: block;
+        }
+         & .input{
+            width: 100%;
+            padding: 0.5rem;
+            border: 1px solid var(--light-gray);
+            border-radius: 10px;
+         }
+         & .sign {
+            & .botton {
+                width: 100%;
+                border-radius: 10px;
+                background-color: blue;
+                border: none;
+                font-weight: 700;
+                margin: 20px;
+            }
+         }
+}
