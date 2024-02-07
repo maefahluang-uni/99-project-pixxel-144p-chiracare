@@ -12,5 +12,5 @@ WORKDIR /opt/chiracare-app
 COPY . /opt/chiracare-app
 
 # run
-EXPOSE 3000
+EXPOSE 80
 CMD ["npm", "start"]   
