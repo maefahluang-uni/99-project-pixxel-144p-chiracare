@@ -12,6 +12,6 @@
     "chiracare"
   ],
   "dependencies": {
-    "express": "^4.15.0"
+    "express": "^4.18.3"
   }
 }
